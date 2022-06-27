@@ -13,8 +13,11 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', function () {
+    return view('Medical');
+});
+
+Route::get('/home', function () {
     return view('Medical');
 });
 
@@ -28,4 +31,20 @@ Route::get('/login', function () {
 
 Route::get('/register', function () {
     return view('register');
+});
+
+Route::get('/produk', function () {
+    return view('user.produk');
+});
+
+Route::get('/jadwal', function () {
+    return view('user.jadwal');
+});
+
+Route::get('/daftar', function () {
+    return view('user.buatjanji');
+});
+
+Route::get('/profile', function () {
+    return view('user.profile');
 });

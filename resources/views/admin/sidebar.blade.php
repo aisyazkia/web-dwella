@@ -68,10 +68,28 @@
 
     <ul class="menu-inner py-1">
       <!-- Dashboard -->
-      <li class="menu-item active">
-        <a href="#" class="menu-link">
+      <li class="menu-item">
+        <a href="/admin" class="menu-link">
           <i class="menu-icon tf-icons bx bx-home-circle"></i>
           <div data-i18n="Analytics">Dashboard</div>
+        </a>
+      </li>
+      <li class="menu-item">
+        <a href="/jadwal" class="menu-link">
+          <i class="menu-icon tf-icons bx bx-home-circle"></i>
+          <div data-i18n="Analytics">Jadwal Praktek</div>
+        </a>
+      </li>
+      <li class="menu-item">
+        <a href="/produk" class="menu-link">
+          <i class="menu-icon tf-icons bx bx-home-circle"></i>
+          <div data-i18n="Analytics">Produk</div>
+        </a>
+      </li>
+      <li class="menu-item">
+        <a href="/about" class="menu-link">
+          <i class="menu-icon tf-icons bx bx-home-circle"></i>
+          <div data-i18n="Analytics">Tentang Dwella</div>
         </a>
       </li>
 
