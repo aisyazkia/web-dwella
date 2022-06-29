@@ -68,7 +68,7 @@
     <!-- Content -->
 
     <section >
-      <div class="container mt-5">
+      <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
           <div class="col-lg-12 col-xl-11">
             <div class="card text-black" style="border-radius: 25px;">
@@ -97,7 +97,7 @@
                       </div>
 
                       <div class="d-flex justify-content-center mx-1 mb-3 mb-lg-4">
-                        <button type="button" class="btn btn-primary btn-lg">Login</button>
+                        <button type="button" class="btn btn-primary ">Login</button>
                       </div>
 
                       <p class="text-center">
@@ -112,7 +112,7 @@
                   </div>
                   <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
     
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
+                    <img src="img/gallery/regis.png"
                       class="img-fluid" alt="Sample image">
     
                   </div>

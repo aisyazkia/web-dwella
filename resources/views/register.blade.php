@@ -120,7 +120,7 @@
                       </div>
     
                       <div class="d-flex justify-content-center mx-1 mb-3 mb-lg-4">
-                        <button type="button" class="btn btn-primary btn-lg">Register</button>
+                        <button type="button" class="btn btn-primary">Register</button>
                       </div>
     
                     </form>
@@ -128,7 +128,7 @@
                   </div>
                   <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
     
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
+                    <img src="img/gallery/regis.png"
                       class="img-fluid" alt="Sample image">
     
                   </div>

@@ -226,8 +226,14 @@
       </div>
     </div>
   </div>
-
+  <a href="/pembayaran">
+    <button type="button" class="btn btn-primary btn-floating">
+      <i class="fas fa-download"></i>
+    </button>
+  </a>
 </section>
+
+
 
 
 </body>

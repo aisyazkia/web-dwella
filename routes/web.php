@@ -48,3 +48,7 @@ Route::get('/daftar', function () {
 Route::get('/profile', function () {
     return view('user.profile');
 });
+
+Route::get('/pembayaran', function () {
+    return view('user.checkout');
+});
